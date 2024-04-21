@@ -1,7 +1,6 @@
 ---
 challenge: Code Memory
-description: Standing before you is the Scientist’s giant display, filled with a giant wall of text that is pre-programmed to self-destruct line by line.
-Your gut tells you that this is crucial information and may be the key to understanding what happened to Justina Panetta.\nCan you outsmart the Scientist’s brain in a battle of memory?
+description: Standing before you is the Scientist's giant display, filled with a giant wall of text that is pre-programmed to self-destruct line by line.\nYour gut tells you that this is crucial information and may be the key to understanding what happened to Justina Panetta.\nCan you outsmart the Scientist’s brain in a battle of memory?
 flag: ATR{STR4SS3N_TH3_H3LL_0UT}
 scoring: subflags(500, 100, 100, 100)
 value: 800
