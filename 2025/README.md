@@ -23,12 +23,12 @@ My writeups for ATR 2025 - [go back](../README.md) for more details about the ev
    - [150] [Chronological Mismanagement](medium/chronological_mismanagement/README.md)
    - [400] [Dental Detective](medium/dental_detective/README.md)
    - [200] [Diet Decoder](medium/diet_decoder/README.md)
-   - [100] [Hotwire Hacking](medium/hotwire_hacking/README.md)
-   - [100] [Lightspeed Lockpick](medium/lightspeed_lockpick/README.md)
+   - [350] [Hotwire Hacking](medium/hotwire_hacking/README.md)
+   - [350] [Lightspeed Lockpick](medium/lightspeed_lockpick/README.md)
    - [200] [Message From The Stars Part 2](medium/message_from_the_stars_part_2/README.md)
    - [300] [Operation Unfeasible](medium/operation_unfeasible/README.md)
    - [250] [The Deepwell Heist Part I: Invisible Infiltration](medium/the_deepwell_heist_part_i_invisible_infiltration/README.md)
-   - [150] [Virtual Fauna](medium/virtual_fauna/README.md)
+   - [450] [Virtual Fauna](medium/virtual_fauna/README.md)
 
 - Hard
    - [450] [Audit Logs](hard/audit_logs/README.md)
