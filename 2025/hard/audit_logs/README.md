@@ -1,6 +1,6 @@
 ---
 challenge: Audit Logs
-description: ***\nEvery action is logged, but not all logs are what they seem. Dive into TrailSec, an audit trail system, uncover hidden clues in system reports, and extract the flag.
+description: \*\*\*\nEvery action is logged, but not all logs are what they seem. Dive into TrailSec, an audit trail system, uncover hidden clues in system reports, and extract the flag.
 flag: ATR{EFFICIENT_IN_SEARCHING_I_SEE}
 scoring: standard(450)
 value: 450

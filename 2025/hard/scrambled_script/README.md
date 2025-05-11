@@ -1,6 +1,6 @@
 ---
 challenge: Scrambled Script
-description: A scrambled Python script holds an encrypted flag — but nothing is as it seems. Variable names are nonsense, the logic is twisted, and the current output is garbled.\n\nYour task: reverse the obfuscation, figure out how to extract the hidden flag from the code.\n\nNo guessing. Just clean, careful analysis.
+description: A scrambled Python script holds an encrypted flag — but nothing is as it seems. Variable names are nonsense, the logic is twisted, and the current output is garbled.\n\nYour task\: reverse the obfuscation, figure out how to extract the hidden flag from the code.\n\nNo guessing. Just clean, careful analysis.
 flag: Automated Flag
 scoring: standard(400)
 value: 400
