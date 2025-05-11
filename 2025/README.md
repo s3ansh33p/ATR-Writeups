@@ -32,7 +32,7 @@ My writeups for ATR 2025 - [go back](../README.md) for more details about the ev
 
 - Hard
    - [450] [Audit Logs](hard/audit_logs/README.md)
-   - [500] [Blinded Scribing](hard/blinded_scribing/README.md)
+   - [700] [Blinded Scribing](hard/blinded_scribing/README.md)
    - [400] [Scrambled Script](hard/scrambled_script/README.md)
    - [300] [The Deepwell Heist Part II: Expedited Exfiltration](hard/the_deepwell_heist_part_ii_expedited_exfiltration/README.md)
    - [600] [The Great Escape](hard/the_great_escape/README.md)
