@@ -5,7 +5,7 @@ flag: 52161
 scoring: standard(400)
 value: 400
 category: Narrative
-authors: 
+authors: Alice Arvidson, Khidir Azhar
 ---
 
 # The Great Treasure Vault
@@ -68,14 +68,14 @@ After successful completion of some challenges, a clue will be made visible to t
   - We can lock that in as the fourth digit.
   - Though also combining this with clue #6, we know that the last three digits product is six.
   - Therefore the last three digits must be `1,1,6` in some order.
-  - This also means that the duplicate digit must be `1,` and all others are unique.
+  - This also means that the duplicate digit must be `1` and all others are unique.
   - Our code is now `?, ?, 1, 6, 1`
   - The other digits can only be `2,3,5` and we know there are three odd digits from clue #7, therefore one of the digits must be `2`, and the other be `3 or 5`.
   - Though we can work out if it is `3 or 5` by adding the digits together.
   - `1+1+6+2 = 10`, therefore the other digit must be `5`.
   - So our code looks like `[5 or 2], [5 or 2], 1, 6, 1`
   - Though clue #3 tells us that the first digit is odd, therefore the first digit must be `5`.
-  - So we can solve our code to be `5,2,1,6,1` as `2` must be the second digit.
+  - So we can solve our code to be `5, 2, 1, 6, 1` as `2` must be the second digit.
 
 The other clues are not required to solve the code, but may be useful if you are missing other clues.
 
