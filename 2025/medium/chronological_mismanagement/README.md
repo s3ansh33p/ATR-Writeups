@@ -1,6 +1,6 @@
 ---
 challenge: Chronological Mismanagement
-description: "Known only to the most trusted staff, and of course your crew, part of the code to the grand treasure vault is encoded in the archeological artifacts on display. Exhibits are often being switched out, but artifacts from specific eras in Gaean history are always here. Dust off your history books, order the artifacts by age, and a secret will reveal itself in their names.\m\m*This event is in-person, in the Terrestrial History exhibit.*"
+description: "Known only to the most trusted staff, and of course your crew, part of the code to the grand treasure vault is encoded in the archeological artifacts on display. Exhibits are often being switched out, but artifacts from specific eras in Gaean history are always here. Dust off your history books, order the artifacts by age, and a secret will reveal itself in their names.\n\n*This event is in-person, in the Terrestrial History exhibit.*"
 flag: (ATR{)?[P][3E]RM[1I][T7](})?
 scoring: standard(150)
 value: 150
