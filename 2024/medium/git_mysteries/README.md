@@ -87,9 +87,9 @@ An example commit is [here](https://github.com/JeffRepayose/financial_reports_au
 ```diff
 main.py
 - # Credit Jeff Repayose
-- msg = “XXXXXXXXXXXXXXXXXXXXXXX”
+- msg = "XXXXXXXXXXXXXXXXXXXXXXX”
 + # Credit Super Programmer - Jeff Repayose
-+ msg = “AXRXXXXX1TTXXXXXXSSXXSX”
++ msg = "AXRXXXXX1TTXXXXXXSSXXSX”
 ```
 
 You need to join these fragments together. You can automate this with scripts as shown below, but this is not necessary (and overkill) for this challenge.

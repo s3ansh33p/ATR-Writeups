@@ -1,7 +1,7 @@
 ---
 challenge: Message From The Stars
 description: "After some investigation, it seems that there are more hidden messages in the stars, perhaps one of the nebulae may make finding these messages less messier."
-flag: ATR{5up3r_n0v4}
+flag: ATR{ar3_you_s1riu5}
 scoring: standard(200)
 value: 200
 category: Medium
@@ -24,4 +24,12 @@ After some investigation, it seems that there are more hidden messages in the st
 
 This follows on from part 1, which can be found [here](../../easy/message_from_the_stars/README.md).
 
-TODO
+One of the images (photo4.jpeg) provided when zoomed in has some blue text:
+
+<p align="center"><img src="bluetext.png" alt="Blue Text Clue" height="360px" /></p>
+
+This reads "420 ROW MSB RGB NO". Using [StegOnline](https://georgeom.net/StegOnline) again, we can use the "Extract Files/Data" and put in these options on a different image provided (photo2.png):
+
+<p align="center"><img src="extract.png" alt="Extracting the Flag" height="360px" /></p>
+
+At the start of the data extracted, we can see the flag `ATR{ar3_you_s1riu5}`.

@@ -5,7 +5,7 @@ flag: ATR{tr34sur3_b3y0nd_w34lth}
 scoring: standard(300)
 value: 300
 category: Medium
-authors: Alice Arvidson, Wini Lambert (2023)
+authors: Alice Arvidson
 ---
 
 # Operation Unfeasible

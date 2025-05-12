@@ -4,8 +4,8 @@ description: "Part of the Terrestrial History exhibit, holograms of various spec
 flag: ATR{th3s3_animals_4re_CheekY}
 scoring: subflags(150, 300)
 value: 450
-category: 
-authors: 
+category: Medium
+authors: Raphael Ho
 ---
 
 # Virtual Fauna
@@ -27,7 +27,7 @@ Several 3D models of animals have had messages hidden within them, which are pie
 The flags are hidden inside the animal files, with four animals being a turtle, fish, bunny and monkey
 - The first part of the flag should be the `bunny.obj`, which has half of a flag on the bottom of the bunny
 - The second part of the flag is in the `monkey.stl`, which has the other half of the flag inside the monkey
-- The fish is red herring, and the “flag” is hidden in the obj file as a comment #
+- The fish is red herring, and the "flag” is hidden in the obj file as a comment #
 - The turtle is hiding a flag on its face, but there are lots of turtles, the flag is just on one of the turtles
   - The flag is on the wrong turtle, so if you unview a certain turtle, it reveals the flag
 

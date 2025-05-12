@@ -22,7 +22,7 @@ You're in the bustling cafeteria of the space museum, surrounded by a variety of
 
 An inscription reads:
 
-“Are you hungry or you greedy? Identify the snack with these conditions to find out…
+"Are you hungry or you greedy? Identify the snack with these conditions to find out…
 - Over 90 calories
 - At least 18g protein
 - Less than 40mg sodium"

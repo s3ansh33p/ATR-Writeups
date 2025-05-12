@@ -27,14 +27,14 @@ My writeups for ATR 2025 - [go back](../README.md) for more details about the ev
    - [350] [Lightspeed Lockpick](medium/lightspeed_lockpick/README.md)
    - [200] [Message From The Stars Part 2](medium/message_from_the_stars_part_2/README.md)
    - [300] [Operation Unfeasible](medium/operation_unfeasible/README.md)
-   - [250] [The Deepwell Heist Part I: Invisible Infiltration](medium/the_deepwell_heist_part_i_invisible_infiltration/README.md)
+   - [500] [The Deepwell Heist Part I: Invisible Infiltration](medium/the_deepwell_heist_part_i_invisible_infiltration/README.md)
    - [450] [Virtual Fauna](medium/virtual_fauna/README.md)
 
 - Hard
    - [450] [Audit Logs](hard/audit_logs/README.md)
    - [700] [Blinded Scribing](hard/blinded_scribing/README.md)
    - [400] [Scrambled Script](hard/scrambled_script/README.md)
-   - [300] [The Deepwell Heist Part II: Expedited Exfiltration](hard/the_deepwell_heist_part_ii_expedited_exfiltration/README.md)
+   - [650] [The Deepwell Heist Part II: Expedited Exfiltration](hard/the_deepwell_heist_part_ii_expedited_exfiltration/README.md)
    - [600] [The Great Escape](hard/the_great_escape/README.md)
 
 - Narrative
