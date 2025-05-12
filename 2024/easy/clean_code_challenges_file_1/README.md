@@ -1,6 +1,6 @@
 ---
 challenge: Clean Code Challanges - File 1
-description: Inside a storage closet was found an robotic vacuum cleaner, claimed to be a personal project of Elon Dust’s. Alongside this were files containing hundreds of instructions for the robot. Write programs to decode these instructions and ensure that they’re legitimate.
+description: Inside a storage closet was found an robotic vacuum cleaner, claimed to be a personal project of Elon Dust's. Alongside this were files containing hundreds of instructions for the robot. Write programs to decode these instructions and ensure that they're legitimate.
 flag: Automated Flag
 scoring: standard(100)
 value: 100
@@ -18,7 +18,7 @@ Easy - 100 points
 
 ## Description
 
-Inside a storage closet was found an robotic vacuum cleaner, claimed to be a personal project of Elon Dust’s. Alongside this were files containing hundreds of instructions for the robot. Write programs to decode these instructions and ensure that they’re legitimate.
+Inside a storage closet was found an robotic vacuum cleaner, claimed to be a personal project of Elon Dust's. Alongside this were files containing hundreds of instructions for the robot. Write programs to decode these instructions and ensure that they're legitimate.
 
 ```python
 #********************************************************************************************

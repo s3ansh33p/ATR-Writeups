@@ -1,6 +1,6 @@
 ---
 challenge: Astronomical Appraisal
-description: "Disguised as a staff member, you receive the following message:\n\n*Congratulations on joining the Intergalactic Mineral Evaluation Team! We already have a project set for you—grading the unique meteors collected from all over the galaxy.*\n*Every single meteor will have observable characteristics such as color, weight, texture, and even radiation levels. With your special scoring system, it is your mission to determine which meteors are rare and which ones are merely space junk!*\n\n*Prepare to:*\n*1. Read data from CSV files*\n*2. Create Python scripts that score every meteor based on their individual characteristics*\n*3. Assess if each meteor meets the threshold score*\n\n*A little bit of programming, problem solving, and utmost intrigue – that’s the assignment.*\n\nBest get to work to not arouse suspicion. Good luck."
+description: "Disguised as a staff member, you receive the following message:\n\n*Congratulations on joining the Intergalactic Mineral Evaluation Team! We already have a project set for you—grading the unique meteors collected from all over the galaxy.*\n*Every single meteor will have observable characteristics such as color, weight, texture, and even radiation levels. With your special scoring system, it is your mission to determine which meteors are rare and which ones are merely space junk!*\n\n*Prepare to:*\n*1. Read data from CSV files*\n*2. Create Python scripts that score every meteor based on their individual characteristics*\n*3. Assess if each meteor meets the threshold score*\n\n*A little bit of programming, problem solving, and utmost intrigue – that's the assignment.*\n\nBest get to work to not arouse suspicion. Good luck."
 flag: ATR{373}
 scoring: standard(300)
 value: 300
@@ -28,7 +28,7 @@ Disguised as a staff member, you receive the following message:
 *2. Create Python scripts that score every meteor based on their individual characteristics*
 *3. Assess if each meteor meets the threshold score*
 
-*A little bit of programming, problem solving, and utmost intrigue – that’s the assignment.*
+*A little bit of programming, problem solving, and utmost intrigue – that's the assignment.*
 
 Best get to work to not arouse suspicion. Good luck.
 

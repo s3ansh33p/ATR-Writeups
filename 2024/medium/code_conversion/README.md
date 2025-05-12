@@ -1,6 +1,6 @@
 ---
 challenge: Code Conversion
-description: Pseudocode for a Brainsave algorithm was found in Dr Curing’s files, but the local source code cannot be found. \nImplement the algorithm using different coding languages and uncover the truth.
+description: Pseudocode for a Brainsave algorithm was found in Dr Curing's files, but the local source code cannot be found. \nImplement the algorithm using different coding languages and uncover the truth.
 flag: ATR{M4J0R_H34D4CH3}
 scoring: subflags(100, 200, 100)
 value: 400
@@ -18,7 +18,7 @@ Medium - 400 points
 
 ## Description
 
-Pseudocode for a Brainsave algorithm was found in Dr Curing’s files, but the local source code cannot be found. 
+Pseudocode for a Brainsave algorithm was found in Dr Curing's files, but the local source code cannot be found. 
 
 Implement the algorithm using different coding languages and uncover the truth.
 

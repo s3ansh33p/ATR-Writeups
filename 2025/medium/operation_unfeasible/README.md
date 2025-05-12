@@ -1,6 +1,6 @@
 ---
 challenge: Operation Unfeasible
-description: "No museum, no matter how large, would be complete without a highly protected prize. The Lion’s Eye Diamond is a superdense glittering crystal, an entire nebula given solid form. Previously stolen by pirates, physical access to the gem requires traversal of miles of tight nanotitanium alloy tunnels, complete with lasers and motion sensors and the works. The Diamond is your secondary prize, however, as you know its cage also holds critical information about the Grand Treasure. \n\nGet in, and get out.\n\n*This activity is in-person, in the Lion's Eye Diamond exhibit.*"
+description: "No museum, no matter how large, would be complete without a highly protected prize. The Lion's Eye Diamond is a superdense glittering crystal, an entire nebula given solid form. Previously stolen by pirates, physical access to the gem requires traversal of miles of tight nanotitanium alloy tunnels, complete with lasers and motion sensors and the works. The Diamond is your secondary prize, however, as you know its cage also holds critical information about the Grand Treasure. \n\nGet in, and get out.\n\n*This activity is in-person, in the Lion's Eye Diamond exhibit.*"
 flag: ATR{tr34sur3_b3y0nd_w34lth}
 scoring: standard(300)
 value: 300
@@ -18,7 +18,7 @@ Medium - 300 points
 
 ## Description
 
-No museum, no matter how large, would be complete without a highly protected prize. The Lion’s Eye Diamond is a superdense glittering crystal, an entire nebula given solid form. Previously stolen by pirates, physical access to the gem requires traversal of miles of tight nanotitanium alloy tunnels, complete with lasers and motion sensors and the works. The Diamond is your secondary prize, however, as you know its cage also holds critical information about the Grand Treasure. 
+No museum, no matter how large, would be complete without a highly protected prize. The Lion's Eye Diamond is a superdense glittering crystal, an entire nebula given solid form. Previously stolen by pirates, physical access to the gem requires traversal of miles of tight nanotitanium alloy tunnels, complete with lasers and motion sensors and the works. The Diamond is your secondary prize, however, as you know its cage also holds critical information about the Grand Treasure. 
 
 Get in, and get out.
 

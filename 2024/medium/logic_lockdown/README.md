@@ -22,7 +22,7 @@ One of the servers in the server room was found locked down with a strict securi
 
 ## Solution
 
-Arduinos act as the gates themselves. There is one ‘Input’ arduino which has five lights, the rest have one light. Each gate is enclosed in some box, that exposes just the pins, and a light (or 5 for input one) will be exposed too.
+Arduinos act as the gates themselves. There is one ‘Input' arduino which has five lights, the rest have one light. Each gate is enclosed in some box, that exposes just the pins, and a light (or 5 for input one) will be exposed too.
 
 There are predefined input and ouput pins, e.g. 13 is output and A0 and A1 are input and the starting lights are always on (representing 1).
 

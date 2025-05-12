@@ -47,7 +47,7 @@ Activities:
 - Hidden Reporting
 
 Findings:
-- Wants to take the CEO’s place
+- Wants to take the CEO's place
 - Forged financial reports as the company went downhill
 
 ### Ada Lovecode
@@ -58,9 +58,9 @@ Activities:
 - Document Destruction
 
 Findings: 
-- Wants to inherit Justine’s fortune
+- Wants to inherit Justine's fortune
 - Got CSO to cover up her finanicial issues
-- Was excluded from Justine’s last will
+- Was excluded from Justine's last will
 
 ### Bill Gatekeeper
 
@@ -72,7 +72,7 @@ Activities:
 Findings:
 - Shamed by Justine for previous security incident
 - Security controls contain critical flaws
-- Covered up Ada’s spending habits
+- Covered up Ada's spending habits
 
 
 ### Dr Alan Curing
@@ -85,10 +85,10 @@ Activities:
 Findings:
 - Was not credited for contributions to Brainsave
 - Brainsave code contained critical bugs
-- Attempted to cover up code after Justine’s death
+- Attempted to cover up code after Justine's death
 
 ### Summary
 
-It was the Brainsave tech, installed in Justine’s head by the scientist, that caused Justine’s untimely demise.
+It was the Brainsave tech, installed in Justine's head by the scientist, that caused Justine's untimely demise.
 
 Dr. Alan Curing inadvertently caused the CEO's death. While testing a new feature in the Brainsave source code, a critical bug went unnoticed, leading to a fatal malfunction during a demonstration with Justine. Devastated by the unintended consequences of his work, Alan had desperately tried to cover up his mistake, but the truth has finally come to light.

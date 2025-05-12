@@ -11,12 +11,12 @@ My writeups for ATR 2025 - [go back](../README.md) for more details about the ev
 ## Categories
 
 - Easy
-   - [100] [A Sky Full of Stars](easy/a_sky_full_of_stars/README.md)
+   - [200] [A Sky Full of Stars](easy/a_sky_full_of_stars/README.md)
    - [150] [Classification Conundrum](easy/classification_conundrum/README.md)
    - [100] [Message From The Stars](easy/message_from_the_stars/README.md)
    - [100] [Point of Fail](easy/point_of_fail/README.md)
-   - [100] [Stay Social](easy/stay_social/README.md)
-   - [100] [Timeline of Everything](easy/timeline_of_everything/README.md)
+   - [200] [Stay Social](easy/stay_social/README.md)
+   - [400] [Timeline of Everything](easy/timeline_of_everything/README.md)
 
 - Medium
    - [300] [Astronomical Appraisal](medium/astronomical_appraisal/README.md)

@@ -1,6 +1,6 @@
 ---
 challenge: Message From The Stars
-description: "One of your crew noticed something suspicious in one of the Stellar exhibits. It goes on at length about the presence of hidden messages in stars, which really caught their eye. It’s worth investigating: after all, you can only stand to gain treasure and notoriety. Hidden messages within hidden messages - just how well-hidden is this code?"
+description: "One of your crew noticed something suspicious in one of the Stellar exhibits. It goes on at length about the presence of hidden messages in stars, which really caught their eye. It's worth investigating: after all, you can only stand to gain treasure and notoriety. Hidden messages within hidden messages - just how well-hidden is this code?"
 flag: ATR{5up3r_n0v4}
 scoring: standard(100)
 value: 100
@@ -18,7 +18,7 @@ Easy - 100 points
 
 ## Description
 
-One of your crew noticed something suspicious in one of the Stellar exhibits. It goes on at length about the presence of hidden messages in stars, which really caught their eye. It’s worth investigating: after all, you can only stand to gain treasure and notoriety. Hidden messages within hidden messages - just how well-hidden is this code?
+One of your crew noticed something suspicious in one of the Stellar exhibits. It goes on at length about the presence of hidden messages in stars, which really caught their eye. It's worth investigating: after all, you can only stand to gain treasure and notoriety. Hidden messages within hidden messages - just how well-hidden is this code?
 
 ## Solution
 

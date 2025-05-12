@@ -1,6 +1,6 @@
 ---
 challenge: Cipher Scamper [2]
-description: Whilst inspecting the janitor’s room, you notice that there is a scrunched-up page tossed in the waste bin. Unraveling the paper, you notice a paragraph of text oddly resembling English, but the letters looks jumbled up. From a glance, you notice certain patterns common to ciphers that are present within the encrypted messages. Time is running short and you have been tasked to decrypt the hidden messages. What secrets does it entail? Only one way to find out.\nMessage for this challenge is attached.
+description: Whilst inspecting the janitor's room, you notice that there is a scrunched-up page tossed in the waste bin. Unraveling the paper, you notice a paragraph of text oddly resembling English, but the letters looks jumbled up. From a glance, you notice certain patterns common to ciphers that are present within the encrypted messages. Time is running short and you have been tasked to decrypt the hidden messages. What secrets does it entail? Only one way to find out.\nMessage for this challenge is attached.
 flag: ATR{W4LL_0F_R3D_T3XT}
 scoring: decay(500,300,10)
 value: 500
@@ -18,7 +18,7 @@ Medium - 500 points
 
 ## Description
 
-Whilst inspecting the janitor’s room, you notice that there is a scrunched-up page tossed in the waste bin. Unraveling the paper, you notice a paragraph of text oddly resembling English, but the letters looks jumbled up. From a glance, you notice certain patterns common to ciphers that are present within the encrypted messages. Time is running short and you have been tasked to decrypt the hidden messages. What secrets does it entail? Only one way to find out.
+Whilst inspecting the janitor's room, you notice that there is a scrunched-up page tossed in the waste bin. Unraveling the paper, you notice a paragraph of text oddly resembling English, but the letters looks jumbled up. From a glance, you notice certain patterns common to ciphers that are present within the encrypted messages. Time is running short and you have been tasked to decrypt the hidden messages. What secrets does it entail? Only one way to find out.
 
 Message for this challenge is attached. 
 

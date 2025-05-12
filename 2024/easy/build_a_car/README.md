@@ -29,6 +29,6 @@ One player takes turns tossing ping pong balls into cups, while the rest of the 
 3. All acquired parts must be used/on the car when in use.
 4. Car must cross start and finish line without anyone touching it.
 
-Catch: some parts are good (bigger gears) other parts are bad (dead weight). Teams aren’t told this, nor are they told which cup corresponds to which component, only that all parts must be used.
+Catch: some parts are good (bigger gears) other parts are bad (dead weight). Teams aren't told this, nor are they told which cup corresponds to which component, only that all parts must be used.
 
 Upon successful completion of the challenge, the team will be awarded the flag `ATR{CFO_N33D5_2_GO}`.
