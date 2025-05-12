@@ -1,5 +1,5 @@
 ---
-challenge: The Deepwell Heist Part I: Invisible Infiltration
+challenge: "The Deepwell Heist Part I: Invisible Infiltration"
 description: "The Deepwell Archive. The most secure data storage system in the entire galaxy, housing a full backup of thousands of years of data from across the Milky Way. Surely, whatever information is kept inside would be more valuable than any wealth imaginable. Your crew has their eyes set on that data. It won't be easy, of course: the Archive's security is the best in the galaxy, and only the most concise code can be injected without instant lockout. Good luck.\n\n*The team with the shortest code will receive bonus points.*\n\n*This activity is in-person, in the Deepwell Archive.*"
 flag: ATR{sl33k_c0d1ng}
 scoring: subflags(250, 250)

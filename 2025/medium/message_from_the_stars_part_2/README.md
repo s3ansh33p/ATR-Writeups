@@ -33,3 +33,9 @@ This reads "420 ROW MSB RGB NO". Using [StegOnline](https://georgeom.net/StegOnl
 <p align="center"><img src="extract.png" alt="Extracting the Flag" height="360px" /></p>
 
 At the start of the data extracted, we can see the flag `ATR{ar3_you_s1riu5}`.
+
+### Clue for [The Great Treasure Vault](../../narrative/the_great_treasure_vault/README.md)
+
+After successful submission of the main flag, this clue is revealed to the team:
+
+> #11: 5 is the first digit in sequence.

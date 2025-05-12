@@ -35,3 +35,9 @@ The box contains a long and thin tablet containing only numbers, which decodes t
 The main flag is the full excerpt on the tablet, which can have all alphanumeric characters. Successfully translating the tablet will yield the main flag `ATR{4s_f0r3t0ld}`
 
 Teams can also attempt a simpler version for 200 points, with only numbers 0-9. Upon successful translation, the flag will be `ATR{57939624}`.
+
+### Clue for [The Great Treasure Vault](../../narrative/the_great_treasure_vault/README.md)
+
+After successful submission of the main flag, this clue is revealed to the team:
+
+> #10: The last digit of the code is odd.

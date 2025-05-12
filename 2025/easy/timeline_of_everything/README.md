@@ -48,3 +48,9 @@ Using the information above, we can fill out the flags. The main flag is worth 1
 - Subflag 4: The year LeBiscuits expire - `7322`
 - Subflag 5: The year the Lion's Eye Diamond was first stolen - `7109`
 - Subflag 6: The year the Subplanar Alarm Repeater was first manufactured - `7296`
+
+### Clue for [The Great Treasure Vault](../../narrative/the_great_treasure_vault/README.md)
+
+After successful submission of the main flag, this clue is revealed to the team:
+
+> #6: The product of the last three digits is 6.

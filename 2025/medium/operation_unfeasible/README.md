@@ -31,3 +31,9 @@ Adapted from a 2023 challenge, this activity involves carefully navigating a maz
 Participants needed to get through the maze without touching the string. If they did, they would need to start again.
 
 Upon completion, they would find the flag inside the rock, which was `ATR{tr34sur3_b3y0nd_w34lth}`.
+
+### Clue for [The Great Treasure Vault](../../narrative/the_great_treasure_vault/README.md)
+
+After successful submission of the main flag, this clue is revealed to the team:
+
+> #8: The digit 7 does not appear in the code.

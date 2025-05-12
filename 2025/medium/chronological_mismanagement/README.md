@@ -33,3 +33,9 @@ The six items are, ordered, as follows:
 - Item 4 - Treasure Ingot
 
 Teams will be presented with exhibition cards, which they can study and line up in order. When lined up, they spell out a word (PERMIT) which is submitted as the activity flag `ATR{PERMIT}`.
+
+### Clue for [The Great Treasure Vault](../../narrative/the_great_treasure_vault/README.md)
+
+After successful submission of the main flag, this clue is revealed to the team:
+
+> #5: The digits 0 and 9 do not appear in the code.

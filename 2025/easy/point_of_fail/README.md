@@ -215,3 +215,9 @@ Now we get the correct total, `551.08`, which we can submit as the flag:
 ```
 💰 Kiosk Says: $551.08
 ```
+
+### Clue for [The Great Treasure Vault](../../narrative/the_great_treasure_vault/README.md)
+
+After successful submission of the main flag, this clue is revealed to the team:
+
+> #3: The first digit of the code is odd.

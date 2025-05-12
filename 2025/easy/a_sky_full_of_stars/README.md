@@ -92,3 +92,9 @@ Here is the resulting graph:
 
 It's clear that Constellation A is `VODYANOY`, and Constellation B is `CALLISTO`.
 Therefore the flags are `ATR{VODYANOY}` and `ATR{CALLISTO}` respectively.
+
+### Clue for [The Great Treasure Vault](../../narrative/the_great_treasure_vault/README.md)
+
+After successful submission of the main flag, this clue is revealed to the team:
+
+> #4: Only digits not divisible by 4 appear in the code.

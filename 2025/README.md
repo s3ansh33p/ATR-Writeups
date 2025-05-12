@@ -1,4 +1,4 @@
-# Amazing Tech Race 2025 (incomplete)
+# Amazing Tech Race 2025
 
 My writeups for ATR 2025 - [go back](../README.md) for more details about the event.
 

@@ -94,3 +94,9 @@ def grade_meteors(filename):
 ```plaintext
 373
 ```
+
+### Clue for [The Great Treasure Vault](../../narrative/the_great_treasure_vault/README.md)
+
+After successful submission of the main flag, this clue is revealed to the team:
+
+> #12: 5 only appears once in sequence.

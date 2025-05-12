@@ -44,3 +44,9 @@ Each of the labels have Calories, Protein and Sodium values in binary. Participa
 | LeBiscuits        | 01010010 (82)     | 00010000 (16)    | 00100110 (38)   |
 
 The only food item that met all the conditions was **Raph Bars**. The flag was therefore `ATR{RAPH_BARS}`.
+
+### Clue for [The Great Treasure Vault](../../narrative/the_great_treasure_vault/README.md)
+
+After successful submission of the main flag, this clue is revealed to the team:
+
+> #7: There are three odd digits in the code.

@@ -31,10 +31,16 @@ The flags are hidden inside the animal files, with four animals being a turtle, 
 - The turtle is hiding a flag on its face, but there are lots of turtles, the flag is just on one of the turtles
   - The flag is on the wrong turtle, so if you unview a certain turtle, it reveals the flag
 
-# Flags
+### Flags
 - Fish.obj `ATR{}` - This is a red herring
 - `ATR{th3s3_animals_4re_CheekY}` - 150 points
   - Bunny.obj `ATR{th3s3_animals_`
   - Monkey.stl `4re_CheekY}`
 - `ATR{i_Lik3_turtl3s}` - 300 points
   - Turtles.fbx
+
+### Clue for [The Great Treasure Vault](../../narrative/the_great_treasure_vault/README.md)
+
+After successful submission of the main flag, this clue is revealed to the team:
+
+> #9: 6 is the fourth digit in sequence.

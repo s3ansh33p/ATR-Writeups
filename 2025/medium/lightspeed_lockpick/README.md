@@ -48,3 +48,9 @@ Teams will play a simple Simon game, being shown a sequence of coloured lights b
 Flag is to be awarded to teams upon successful completion of the respective level. 
 
 Fastest team overall will receive 100 bonus points
+
+### Clue for [The Great Treasure Vault](../../narrative/the_great_treasure_vault/README.md)
+
+After successful submission of the main flag, this clue is revealed to the team:
+
+> #2: One digit appears twice. The rest are unique.

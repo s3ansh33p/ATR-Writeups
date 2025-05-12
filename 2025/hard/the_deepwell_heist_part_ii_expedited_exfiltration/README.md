@@ -1,5 +1,5 @@
 ---
-challenge: The Deepwell Heist Part II: Expedited Exfiltration
+challenge: "The Deepwell Heist Part II: Expedited Exfiltration"
 description: "You've managed to infiltrate the most secure server in the galaxy. Your presence is known however, and any data you can access is being erased within a matter of seconds. Keep your eyes sharp and gather what data you can before access is lost for good.\n\n*This activity is in-person, in the Deepwell Archive.*"
 flag: ATR{m3m0r153_m3}
 scoring: subflags(300, 350)
