@@ -1,6 +1,6 @@
 ---
 challenge: Diet Decoder
-description: "You're in the bustling cafeteria of the space museum, surrounded by a variety of space ration packs. You’re not here to eat but you are here to steal. As you walk in, you see 7 foods displayed in glass cases. A inscription reads:\n\n“Are you hungry or you greedy? Identify the snack with these conditions to find out…\nOver 90 calories\nAt least 18g protein\nLess than 40mg sodium"\n\n*This activity is in-person, in the Cafeteria.*"
+description: "You're in the bustling cafeteria of the space museum, surrounded by a variety of space ration packs. You’re not here to eat but you are here to steal. As you walk in, you see 7 foods displayed in glass cases. A inscription reads:\n\n\"Are you hungry or you greedy? Identify the snack with these conditions to find out…\nOver 90 calories\nAt least 18g protein\nLess than 40mg sodium\"\n\n*This activity is in-person, in the Cafeteria.*"
 flag: (ATR{)?[r][4a]ph[_ ]b[4a]r[5s](})?
 scoring: standard(200)
 value: 200
