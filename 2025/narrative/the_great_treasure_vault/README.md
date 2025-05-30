@@ -10,6 +10,8 @@ authors: Alice Arvidson, Khidir Azhar
 
 # The Great Treasure Vault
 
+[Back to Home](../../README.md)
+
 ## Points
 
 Narrative - 400 points
